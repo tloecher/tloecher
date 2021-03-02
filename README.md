@@ -1,5 +1,5 @@
 ## Hi there
-I'm interested in systematic trading, decentralised finance and backcountry skiing.  
+I'm interested in systematic trading, decentralised finance and backcountry skiing. Oh and mountain biking.  
 I keep some of my work on here for everyone to explore (and some of it in stealth mode).
 
 <!--
