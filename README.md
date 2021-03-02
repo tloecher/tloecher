@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there
+I'm interested in systematic trading, decentralised finance and backcountry skiing.
+I keep some of my work on here for everyone to explore (and some of it in stealth mode).
 
 <!--
 **tloecher/tloecher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
