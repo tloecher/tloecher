@@ -1,6 +1,12 @@
-## Hi there
-I'm interested in systematic trading, decentralised finance and backcountry skiing. Oh and mountain biking.  
-I keep some of my work on here for everyone to explore (and some of it in stealth mode).
+I’m interested in:
+
+* systematic trading
+* decentralised finance
+* backcountry skiing
+* mountain biking
+
+I used to trade interest rate swaps institutionally.
+Now I trade FX and crypto at a start up.
 
 <!--
 **tloecher/tloecher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
